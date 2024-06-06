@@ -104,6 +104,9 @@ body{
     
     
 }
+.informacion_contacto ul li .link{
+    text-decoration: none;
+}
 
 .informacion_formacion li{
     margin-bottom: 15px;
